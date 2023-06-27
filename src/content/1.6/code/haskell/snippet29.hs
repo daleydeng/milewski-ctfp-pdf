@@ -1,1 +1,1 @@
-type Maybe a = Either () a
+data Maybe a = Either () a
